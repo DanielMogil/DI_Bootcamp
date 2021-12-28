@@ -1,0 +1,60 @@
+body {
+    background-image: url('https://mocah.org/thumbs/192579-doctor-strange-3840x2160.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+ul {
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+  }
+ul a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+}
+h1 {
+    font-size: 50px;
+    color: blanchedalmond;
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    text-decoration: underline red;
+    font-style: oblique;
+    border-top: 0%;
+    margin-top: 30px;
+    margin-bottom: 0%;
+}
+#PH {
+    font-size: 100px;
+    color: red;
+    margin-left: 50px;
+    font-style: oblique;
+}
+p {
+    font-size: 20px;
+    color: red;
+}
+#Story {
+    font-size: 30px;
+    color: gold;
+    font-style: oblique;
+    margin-bottom: 50px;
+}
+footer {
+    vertical-align: bottom;
+    text-align-last: center;
+    background-size: 100% 100%;
+    background-color: black;
+    object-fit: fill;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
