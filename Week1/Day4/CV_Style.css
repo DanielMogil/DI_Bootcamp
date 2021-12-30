@@ -1,0 +1,87 @@
+body {
+    background-color: #E7E9EB;
+}
+ul#navlist {
+    list-style-type: none;
+    background-color: #333333;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+ul#navlist li {
+    float: left;
+}
+ul#navlist li a#dm {
+    background-color: black;
+    color: gold;
+    margin-top: 0;
+    margin-bottom: 0;
+    float: right;
+}
+ul#navlist li a{
+    display: block;
+    color: brown;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+ul#navlist li a:hover {
+    background-color: gray;
+}
+#jda {
+    font-size: 20px;
+}
+#ptext {
+    font-size: 25px;
+}
+h1 {
+    margin-top: 100px;
+    text-align: center;
+}
+#profilepic {
+    align-content: center;
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+    float: left;
+}
+h2 {
+    margin-left: 50px;
+    margin-top: 150px;
+    text-decoration: underline;
+}
+ul#skilllist {
+    list-style-type: none;
+}
+ul#skilllist li {
+    float: left;
+    }
+ul#skilllist li p{
+    display: block;
+    text-align: center;
+    margin-left: 250px;
+    text-decoration: none;
+    background-color: cornsilk;
+    padding: 5px;
+    }
+ul#linkslist {
+    list-style-type: none;
+    }
+ul#linkslist li {
+    float: left;
+        }
+ul#linkslist li p{
+    display: block;
+    text-align: center;
+    margin-left: 500px;
+    text-decoration: none;
+    background-color: cornsilk;
+    padding: 5px;
+        }
